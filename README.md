@@ -1,2 +1,5 @@
-# dio-github-first-repository
-Desafio de projeto sobre Git/GitHub - Digital Inovation One (Bootcamp Java)
+# Desafio de projeto DIGITAL INOVATION ONE Re
+Primeiro repositório para teste. 
+
+##Links Úteis
+[Sintaxe Markdow](https://www.markdownguide.org/)
